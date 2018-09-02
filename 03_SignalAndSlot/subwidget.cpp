@@ -1,5 +1,6 @@
 #include "subwidget.h"
 
+
 SubWidget::SubWidget(QWidget *parent) : QWidget(parent)
 {
     this->setWindowTitle("小弟");
@@ -15,4 +16,5 @@ void SubWidget::sendSlot()
 {
     emit mySignal();
     emit mySignal(250, "我是子窗口");
+
 }
