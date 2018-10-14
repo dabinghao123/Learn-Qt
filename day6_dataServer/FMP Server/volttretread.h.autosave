@@ -1,0 +1,19 @@
+#ifndef VOLTTRETREAD_H
+#define VOLTTRETREAD_H
+
+#include <QObject>
+
+class VoltTreTread : public QObject
+{
+    Q_OBJECT
+public:
+    explicit VoltTreTread(QObject *parent = 0);
+    void myVoltPaint();
+
+signals:
+    void updateImage(QImage temp);
+
+public slots:
+};
+
+#endif // VOLTTRETREAD_H

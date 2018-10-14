@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/image.png</file>
+        <file>image/potplayer菜单栏.bmp</file>
+        <file>image/potplayer底部.bmp</file>
+        <file>image/ui设计.bmp</file>
+        <file>image/帮助.bmp</file>
+        <file>image/帮助鼠标悬浮.bmp</file>
+        <file>image/播放.bmp</file>
+        <file>image/播放器图标.bmp</file>
+        <file>image/播放鼠标悬浮.bmp</file>
+        <file>image/不亮.bmp</file>
+        <file>image/出错了.bmp</file>
+        <file>image/东大图标.bmp</file>
+        <file>image/断开连接.bmp</file>
+        <file>image/断开连接鼠标悬浮.bmp</file>
+        <file>image/服务器.bmp</file>
+        <file>image/加速.bmp</file>
+        <file>image/加速鼠标悬浮.bmp</file>
+        <file>image/减速.bmp</file>
+        <file>image/减速鼠标悬浮.bmp</file>
+        <file>image/界面参考.bmp</file>
+        <file>image/亮灯.bmp</file>
+        <file>image/趋势初始图片.bmp</file>
+        <file>image/视频播放初始界面.bmp</file>
+        <file>image/暂停.bmp</file>
+        <file>image/暂停鼠标悬浮.bmp</file>
+        <file>image/折线图.bmp</file>
+    </qresource>
+</RCC>

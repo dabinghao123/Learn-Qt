@@ -1,6 +1,6 @@
 #include "mainwidget.h"
 #include <QPushButton>
-#include <QDebug>//打印 和c++中cout一样
+#include <QDebug>//和c++中cout一样,但是不需要加endl就可以自动换行
 
 MainWidget::MainWidget(QWidget *parent)
     : QWidget(parent)

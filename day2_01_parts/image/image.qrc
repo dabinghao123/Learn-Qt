@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Leisure">
+        <file>Luffy.png</file>
+        <file>mario.gif</file>
+    </qresource>
+</RCC>
